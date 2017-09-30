@@ -5,6 +5,6 @@ This is the 'Chaotic Kbest Gravitational Search Algorithm (CKGSA)' for minimizin
 
 Change 'test_functions.m' and 'test_functions_range.m' for your own applications.
 
-The code template used is similar to code given at link: https://github.com/7ossam81/EvoloPy and matlab version of GSA at mathworks.
+The code template used is similar to code given at link: https://github.com/himanshuRepo/GSA_PythonCode and matlab version of GSA at mathworks.
 
 This code is available for non-commercial purposes. We would appreciate an acknowledgment if you use it in your work.
