@@ -4,7 +4,7 @@ Edited on Tue May 11 18:46:20 2017
 
 This is the code for Chaotic Kbest Gravitational Search Algorithm (CKGSA)
 Coded by: Himanshu Mittal, himanshu.mittal224@gmail.com
-The code template used is similar to code given at link: https://github.com/7ossam81/EvoloPy and matlab version of GSA at mathworks.
+The code template used is similar to code given at link: https://github.com/himanshuRepo/GSA_PythonCode and matlab version of GSA at mathworks.
 
 Reference: "H. Mittal,R. Pal,A. Kulhari,and M. Saraswat, 
             “Chaotic Kbest gravitational search algorithm (CKGSA)”,
