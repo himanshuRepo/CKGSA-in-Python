@@ -30,7 +30,7 @@ import move
 
         
 def CKGSA(objf,lb,ub,dim,PopSize,iters):
-    # GSA parameters
+    # CKGSA parameters
     ElitistCheck =1
     Rpower = 1 
      
