@@ -55,9 +55,9 @@ def ckgfield(PopSize,dim,pos,M,l,iters,G,ElitistCheck,Rpower,Variant):
                     
                 R = math.sqrt(esum)
                 
-            for k in range(0,dim):
-                randnum=random.random()
-                Force[r,k] = Force[r,k]+randnum*(M[z])*((pos[z,k]-pos[r,k])/(R**Rpower+numpy.finfo(float).eps))
+                for k in range(0,dim):
+                    randnum=random.random()
+                    Force[r,k] = Force[r,k]+randnum*(M[z])*((pos[z,k]-pos[r,k])/(R**Rpower+numpy.finfo(float).eps))
                     
     acc = numpy.zeros((PopSize,dim))
     for x in range(0,PopSize):
